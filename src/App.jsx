@@ -56,7 +56,7 @@ function App() {
         <h1> KL University Online Store</h1>
         <p className="store-description">Click on any product to view details</p>
         
-        {/* Product List */}
+        
         <div className="product-list">
           {products.map(product => (
             <div 
@@ -72,7 +72,7 @@ function App() {
           ))}
         </div>
 
-        {/* Pop-up Modal */}
+       
         {isPopupVisible && selectedProduct && (
           <div className="popup-overlay">
             <div className="popup-content">
