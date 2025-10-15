@@ -5,7 +5,6 @@ function App() {
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [isPopupVisible, setIsPopupVisible] = useState(false);
 
-  // Sample product data
   const products = [
     {
       id: 1,
