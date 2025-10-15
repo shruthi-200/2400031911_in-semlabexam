@@ -9,7 +9,7 @@ function App() {
     {
       id: 1,
       name: "Laptop",
-      price: "$999",
+      price: "99000",
       shortDescription: "High-performance laptop for students",
       image: "/laptop.jpg",
       extendedDescription: "This powerful laptop features an Intel i7 processor, 16GB RAM, 512GB SSD, and a 15.6-inch display. Perfect for coding, design work, and all your academic needs."
@@ -17,7 +17,7 @@ function App() {
     {
       id: 2,
       name: "Textbook",
-      price: "$89",
+      price: "1000",
       shortDescription: "Advanced React Programming",
       image: "/textbok.jfif",
       extendedDescription: "Comprehensive guide to modern React development with hooks, context API, and best practices. Includes real-world projects and exercises."
@@ -25,7 +25,7 @@ function App() {
     {
       id: 3,
       name: "Calculator",
-      price: "$45",
+      price: "1500",
       shortDescription: "Scientific calculator for engineering",
       image: "/calculator.jpg",
       extendedDescription: "Advanced scientific calculator with 300+ functions, solar power, and large display. Ideal for engineering and mathematics students."
@@ -33,7 +33,7 @@ function App() {
     {
       id: 4,
       name: "Backpack",
-      price: "$65",
+      price: "5000",
       shortDescription: "Water-resistant campus backpack",
       image: "/download.jfif",
       extendedDescription: "Durable water-resistant backpack with laptop compartment, multiple pockets, and ergonomic straps. Perfect for carrying books and tech gear across campus."
